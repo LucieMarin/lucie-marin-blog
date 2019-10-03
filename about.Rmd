@@ -6,3 +6,8 @@ title: "About me"
 This section also must include: 
 
 - first name/surname, teacher’s name, class name and academic year
+
+- Lucie Marin
+- Mrs Bouchet
+- group 3
+- BAB 3 biology
