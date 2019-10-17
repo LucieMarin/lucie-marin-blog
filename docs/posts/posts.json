@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-10-09-article-1/",
+    "title": "Article 1 : Mussels are inspiring new technology that could help purify water and clean up oil spills",
+    "description": {},
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-09",
+    "categories": [
+      "mussels"
+    ],
+    "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
+    "last_modified": "2019-10-17T21:16:22+02:00"
+  },
+  {
     "path": "posts/2019-10-03-article-2/",
     "title": "Article 2",
     "description": "A short description of the post.",
@@ -13,22 +30,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-10-06T14:07:03+02:00"
-  },
-  {
-    "path": "posts/2019-10-09-article-1/",
-    "title": "Article 1 : Mussels are inspiring new technology that could help purify water and clean up oil spills",
-    "description": {},
-    "author": [
-      {
-        "name": "Lucie Marin",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-10",
-    "categories": [
-      "e"
-    ],
-    "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-10-09T18:23:14+02:00"
   }
 ]
