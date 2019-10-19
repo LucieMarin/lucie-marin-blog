@@ -39,10 +39,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Scientists in China and the United States, published by Cell Press                        |
+| Researchers                  | Scientists in China and the United States, published by Cell Press,including Hao-Cheng Yang a researcher at the School of Chemical Engineering and Technology at Sun Yat-sen University in China                  |
 | Published in?                | July 10, 2019                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| General topic?               |  This article discusses the many solutions to the problems that mussel can bring. Many studies are done on this organism. Produce super resistant adhesives, purify water, fight the oil spills ... all this will be possible with the mussels !                     |
+| Procedure/what was examined? | There are several research inspired by the mussel.     The property of this bivalve is the manufacture of super resistant byssus string from dihydroxyphenylalanine. This molecule allows adhesion to all substrates through these bonds and interactions. Dopamine has similar properties. Researchers have looked at dopamine and want to use it as a coating for many materials. In more , adhesion substances in water are highly coveted.       The mussels have already been used to develop a universal red blood cell. The red blood cell is coated which prevents an immune response of the body.           Other researchers have developed materials that can separate hydrocarbons from water. Oils spills are made from hydrocarbon. It is therefore a solution to protect the environment of these phenomena.         The mussel is an organism that filters water, this property is also analyzed by scientists. This new technology allows to filter heavy metals, organic pollutants, pathogens, ... The technique is also developed from dopamine.            The mussel offers solutions.Researchers are inspired by nature for new technologies. |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
