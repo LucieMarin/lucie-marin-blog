@@ -16,7 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: ]() ](image/mussels.jpg)
+![ [Credit: https://www.needpix.com/photo/download/109690/mussels-shells-sea-scotland-free-pictures-free-photos-free-images-royalty-free-free-illustrations ]() ](image/mussels.jpg)
+## Link artcile
+
+<https://www.sciencedaily.com/releases/2019/07/190710121643.htm>
 
 ## Vocabulary 
 
@@ -47,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | Scientists still have to work to improve these technologies. First, dopamine should be placed in alkaline conditions. Therefore alkaline sensitive substances cannot be used.     More, efficiency and cost must be further improved. |
 
 
-<https://www.sciencedaily.com/releases/2019/07/190710121643.htm>
+
 
 
 

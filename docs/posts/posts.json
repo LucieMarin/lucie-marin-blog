@@ -14,21 +14,6 @@
       "mussels"
     ],
     "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-10-20T18:05:07+02:00"
-  },
-  {
-    "path": "posts/2019-10-03-article-2/",
-    "title": "Article 2",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Lucie Marin",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-06T14:07:03+02:00"
+    "last_modified": "2019-11-02T12:32:50+01:00"
   }
 ]

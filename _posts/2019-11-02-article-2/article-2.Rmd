@@ -1,0 +1,54 @@
+---
+title: "Article 2 : A polar-bear-inspired material for heat insulation"
+author:
+  - name: Lucie Marin
+date: 11-02-2019
+categories:
+  - polar beer
+preview: image/mussels.jpg
+  output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ [Credit: https://upload.wikimedia.org/wikipedia/commons/c/cf/Ours_polaire.jpg ]() ](image/ours-polaire.jpg)
+
+## link article
+
+<https://www.sciencedaily.com/releases/2019/06/190606150317.htm>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+|               |                 |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |                   |
+| Published in?                |                                                      |
+| General topic?               |                      |
+| Procedure/what was examined? |                    |
+| Conclusions/discovery?       |            |
+| Remaining questions?         |         |
+
+
+
+
