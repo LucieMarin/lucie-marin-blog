@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-02-article-2/",
+    "title": "Article 2 : A polar-bear-inspired material for heat insulation",
+    "description": {},
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-02",
+    "categories": [
+      "polar beer"
+    ],
+    "preview": "posts/2019-11-02-article-2/image/ours-polaire.jpg",
+    "last_modified": "2019-11-03T16:27:10+01:00"
+  },
+  {
     "path": "posts/2019-10-09-article-1/",
     "title": "Article 1 : Mussels are inspiring new technology that could help purify water and clean up oil spills",
     "description": {},
@@ -14,6 +31,6 @@
       "mussels"
     ],
     "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-11-02T12:32:50+01:00"
+    "last_modified": "2019-11-02T15:56:41+01:00"
   }
 ]

@@ -5,8 +5,8 @@ author:
 date: 11-02-2019
 categories:
   - polar beer
-preview: image/mussels.jpg
-  output:
+preview: image/ours-polaire.jpg
+output:
   distill::distill_article:
     self_contained: false
 ---
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![ [Credit: https://upload.wikimedia.org/wikipedia/commons/c/cf/Ours_polaire.jpg ]() ](image/ours-polaire.jpg)
 
-## link article
+## Link article
 
 <https://www.sciencedaily.com/releases/2019/06/190606150317.htm>
 
@@ -25,30 +25,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-
+| Heat              | Warmth                |
+| Scaling              | Climbing                |
+| Toward              | In the direction of                |
+| Matter              | A subject or situation under consideration                |
+| Frigid              | Very cold in temperature                |
+| Analogous              | Comparable in certain respects, typically in a way which makes clearer the nature of the things compared                |
+| Lightweight              | Of thin materiel or build and weighing less than average                |
+| Noticeably              | Visibly                |
+| Hollow              | Having a hole or empty space inside                |
+| Heat-holding              | Warmth-dress                |
+| Stretchiness              | The most stretched                |
+| Outstanding              | Remarkable                |
+| Emulate              | Imitate                |
+| Hollowed-out              | To remove the inside of                |
+| Handy              | Practical                |
+| Stretchy              | Flexible                |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |                   |
-| Published in?                |                                                      |
-| General topic?               |                      |
-| Procedure/what was examined? |                    |
-| Conclusions/discovery?       |            |
-| Remaining questions?         |         |
-
-
+| Researchers                  | Scientists in China and the United States, published by Cell Press, including Shu-Hong Yu, a professor of chemistry at the University of Science and Technology of China (USTC)                   |
+| Published in?                | June 6, 2019                                                     |
+| General topic?               | The article is a study on polar bear fur, a polar bear must withstand extremely cold temperatures. And that to inspire scientists who have created a thermal insulator. This insulation and more efficient and lighter.                     |
+| Procedure/what was examined? | The fur of the polar bear has a particularity, it is hollow. This traps the heat and keeps it. These hollow cells give the white coat to polar bear. In addition, to providing thermal protection. The hairs provide water resistance, good stretch and lightness. Hollow carbon tubes are used to imitate the hairs. These tubes are then wound in aerogel block.    It's thermal insulation is also effective for wet lands because bears must be isolated also in water.
+                   |
+| Conclusions/discovery?       | A new thermal insulation system is developed thanks to the polar bear. This system is more efficient and frothier. There are also potential benefits for wet lands with this new technology.           |
+| Remaining questions?         | Researches need to be done because the material is not yet industrially manufacturable.        |
 
 
