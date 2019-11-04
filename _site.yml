@@ -14,6 +14,8 @@ navbar:
 base_url: http://LucieMarin.github.io/lucie-marin-blog/
 collections:
     posts:
-      disqus: lucie-marin-blog
+      disqus: 
+          shortname: lucie-marin-blog
+          hidden: false
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
