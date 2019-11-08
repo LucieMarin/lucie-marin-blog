@@ -15,7 +15,10 @@
 }
 
 .distill-site-header {
+  color: rgba(189, 246, 179, 0.8);
   background-image: url("biomimicry.jpg");
+  font-size: 15px;
+  font-weight: 300
 }
 
 .distill-site-footer {
