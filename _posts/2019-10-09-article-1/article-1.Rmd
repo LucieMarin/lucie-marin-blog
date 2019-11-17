@@ -1,5 +1,7 @@
 ---
 title: "Article 1 : Mussels are inspiring new technology that could help purify water and clean up oil spills"
+description: |
+  This article discusses the many solutions to the problems that mussel can bring. Many studies are done on this organism. Produce super resistant adhesives, purify water, fight the oil spills ... All this will be possible with the mussels !
 author:
   - name: Lucie Marin
 date: 10-09-2019

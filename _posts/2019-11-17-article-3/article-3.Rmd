@@ -1,0 +1,55 @@
+---
+title: "Article 3 :Color-changing artificial 'chameleon skin' powered by nanomachines"
+description: |
+  The scientists are working on "a chameleon skin", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish
+author:
+  - name: Lucie Marin
+    url: {}
+date: 11-17-2019
+categories:
+  - chameleon
+preview: image/cameleon.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ [Credit: https://upload.wikimedia.org/wikipedia/commons/d/dd/Cameleon_madagascar.jpg ]() ](image/cameleon.jpg)
+
+## Link url of article
+
+https://www.sciencedaily.com/releases/2019/08/190821111820.htm
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Microdroplets              | A very small drop                |
+| Cuttlefish              | A small cephalopod                |
+| Chromatophores              | It is a pigment-containing and light-reflecting cells, or groups of cells, found in a wide range of animals including amphibians, fish, reptiles, crustaceans and cephalopods.                |
+| To squeeze              | To firmly press (something soft or yielding), typically with one's fingers.                |
+| To force              | To make a way through or into by physical strength; break open by force.                |
+| Volvox              | A green single-celled aquatic organism which forms minute free-swimming spherical colonies.                |
+| Droplets              | A very small drop of a liquid.                |
+| Briefly              | Shortly                |
+| Roll-to-roll              | It is a family of manufacturing techniques involving continuous processing of a flexible                |
+| To Herd              |To gather                 |
+| Council              | An advisory, deliberative, or administrative body of people formally constituted and meeting regularly.                |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | By researchers from the University of Cambridge with Dr Andrew Salmon from Cambridge's Cavendish Laboratory and Sean Cormier. The research was funded by the European Research Council (ERC) and the Engineering and Physical Sciences Research Council (EPSRC).               |
+| Published in?                | August 21, 2019                                                     |
+| General topic?               | The scientists are working on "a chameleon skin", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish                     |
+| Procedure/what was examined? | This technology is inspired by chromatophores, which are cells that allow the color modification of animals. Researchers used small gold particles surrounded in polymers. These polymers are then compressed into drops of water in oil.   With heat or light (the temperature must exceed 32 ° C), particles get together that changes the color.    The color changes are based on nano-mechanisms.      At high temperatures, nanoparticles expose in water. At low temperatures, the particles are absorbed in the water                  |
+| Conclusions/discovery?       | By using different materials and nanoparticle shapes, we can have an infinity of colors. Moreover this research represents a major advance in the use of nanometric technology for biomimicry and also in other fields           |
+| Remaining questions?         | A nanoparticle model allows one color change. To have a greater range of color, it is necessary to assemble several particles. It's not easy. In addition, the materials used are very expensive (for example: gold). It still takes time to optimize this technology.        |
+
+

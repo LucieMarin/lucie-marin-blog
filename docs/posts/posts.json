@@ -1,8 +1,25 @@
 [
   {
+    "path": "posts/2019-11-17-article-3/",
+    "title": "Article 3 :Color-changing artificial 'chameleon skin' powered by nanomachines",
+    "description": "The scientists are working on \"a chameleon skin\", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-17",
+    "categories": [
+      "chameleon"
+    ],
+    "preview": "posts/2019-11-17-article-3/image/cameleon.jpg",
+    "last_modified": "2019-11-17T15:55:08+01:00"
+  },
+  {
     "path": "posts/2019-11-02-article-2/",
     "title": "Article 2 : A polar-bear-inspired material for heat insulation",
-    "description": {},
+    "description": "The article is a study on polar bear fur, a polar bear must withstand extremely cold temperatures. And that to inspire scientists who have created a thermal insulator. This insulation and more efficient and lighter.",
     "author": [
       {
         "name": "Lucie Marin",
@@ -14,12 +31,12 @@
       "polar beer"
     ],
     "preview": "posts/2019-11-02-article-2/image/ours-polaire.jpg",
-    "last_modified": "2019-11-08T07:24:00+01:00"
+    "last_modified": "2019-11-17T14:01:37+01:00"
   },
   {
     "path": "posts/2019-10-09-article-1/",
     "title": "Article 1 : Mussels are inspiring new technology that could help purify water and clean up oil spills",
-    "description": {},
+    "description": "This article discusses the many solutions to the problems that mussel can bring. Many studies are done on this organism. Produce super resistant adhesives, purify water, fight the oil spills ... All this will be possible with the mussels !",
     "author": [
       {
         "name": "Lucie Marin",
@@ -31,6 +48,6 @@
       "mussels"
     ],
     "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-11-08T07:24:00+01:00"
+    "last_modified": "2019-11-17T14:01:56+01:00"
   }
 ]

@@ -1,5 +1,7 @@
 ---
 title: "Article 2 : A polar-bear-inspired material for heat insulation"
+description: |
+  The article is a study on polar bear fur, a polar bear must withstand extremely cold temperatures. And that to inspire scientists who have created a thermal insulator. This insulation and more efficient and lighter.
 author:
   - name: Lucie Marin
 date: 11-02-2019

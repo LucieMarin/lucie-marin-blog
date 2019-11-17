@@ -1,7 +1,7 @@
 ---
 title: "Article 2 : A polar-bear-inspired material for heat insulation"
 description: |
-  A short description of the post.
+  The polar bear hair help to develop a new technology.
 author:
   - name: Lucie Marin
     url: {}
@@ -52,5 +52,5 @@ knitr::opts_chunk$set(echo = FALSE)
 | Procedure/what was examined? |                    |
 | Conclusions/discovery?       |            |
 | Remaining questions?         |         |
-ill at <https://rstudio.github.io/distill>.
+
 
