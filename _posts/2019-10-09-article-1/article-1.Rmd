@@ -17,7 +17,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![ [Credit: https://www.needpix.com/photo/download/109690/mussels-shells-sea-scotland-free-pictures-free-photos-free-images-royalty-free-free-illustrations ]() ](image/mussels.jpg)
+![ Credit: [ https://www.needpix.com/photo/download/109690/mussels-shells-sea-scotland-free-pictures-free-photos-free-images-royalty-free-free-illustrations ]() ](image/mussels.jpg)
 
 ## Link url of article
 
