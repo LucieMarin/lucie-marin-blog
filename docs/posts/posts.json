@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-29-article-4/",
+    "title": "Article 4: The Future of Design is Biomimicry",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-29",
+    "categories": [
+      "architecture"
+    ],
+    "preview": "posts/2019-11-29-article-4/image/biomimicry.jpg",
+    "last_modified": "2019-12-01T18:18:43+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article-3/",
     "title": "Article 3 :Color-changing artificial 'chameleon skin' powered by nanomachines",
     "description": "The scientists are working on \"a chameleon skin\", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish",
@@ -14,7 +31,7 @@
       "chameleon"
     ],
     "preview": "posts/2019-11-17-article-3/image/cameleon.jpg",
-    "last_modified": "2019-11-25T10:53:04+01:00"
+    "last_modified": "2019-11-29T17:02:57+01:00"
   },
   {
     "path": "posts/2019-11-02-article-2/",
@@ -31,7 +48,7 @@
       "polar beer"
     ],
     "preview": "posts/2019-11-02-article-2/image/ours-polaire.jpg",
-    "last_modified": "2019-11-25T10:51:16+01:00"
+    "last_modified": "2019-11-29T17:02:57+01:00"
   },
   {
     "path": "posts/2019-10-09-article-1/",
@@ -48,6 +65,6 @@
       "mussels"
     ],
     "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-11-25T10:52:06+01:00"
+    "last_modified": "2019-11-29T17:02:56+01:00"
   }
 ]
