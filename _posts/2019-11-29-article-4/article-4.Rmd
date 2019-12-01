@@ -1,0 +1,67 @@
+---
+title: "Article 4: The Future of Design is Biomimicry"
+description: |
+  A short description of the post.
+author:
+  - name: Lucie Marin
+    url: {}
+date: 11-29-2019
+categories:
+  - architecture
+preview: image/biomimicry.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ Credit: [ https://blog.interface.com/future-of-design-biomimicry/ ]() ](image/biomimicry.jpg)
+
+## Link url of article
+
+<https://blog.interface.com/future-of-design-biomimicry/>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Wild              | Living or growing in the natural environment; not domesticated or cultivated.                |
+| To borrow              | To loan                |
+| Sustainability              | The ability to be maintained at a certain rate or level.                |
+| Desperately              | In a way that shows despair.                |
+| Constraint              | A limitation or restriction.                |
+| Outdoor              | Done, situated, or used out of doors.                |
+| Surroundings              | All round a particular place or thing.                |
+| Paradigm              | A typical example or pattern of something; a pattern or model.                |
+| Pebbles              | A small stone made smooth and round by the action of water or sand.                |
+| Riverbed              | The bed or channel in which a river flows.                   |
+| Blanket              | A large piece of woollen or similar material used as a covering on a bed or elsewhere for warmth.                    |
+| Attic              | A space or room inside or partly inside the roof of a building.                      |
+| Broadloom              | Carpet woven in wide widths.                   |
+| Component              | A part or element of a larger whole, especially a part of a machine or vehicle.                     |
+| Brand              | A type of product manufactured by a particular company under a particular name.                     |
+| Mimicking              | Imitating                     |
+| Craze              | An enthusiasm for a particular activity or object which appears suddenly and achieves widespread but short-lived popularity.                      |
+| Oakey              | Relating to, or having many oaks                      |
+| Echoing              | Resounding with or reflecting back sounds.                     |
+| Oblongs              | A rectangular object or flat figure with unequal adjacent sides.                   |
+| Tiles              | A thin rectangular slab of baked clay or other material, used in overlapping rows for covering roofs.                      |
+| Robustness              | The quality or condition of being strong and in good condition.                    |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |                   |
+| Published in?                | August 7, 2019                                                     |
+| General topic?               |                      |
+| Procedure/what was examined? |                    |
+| Conclusions/discovery?       |            |
+| Remaining questions?         |         |
+
+
