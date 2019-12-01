@@ -1,7 +1,7 @@
 ---
 title: "Article 4: The Future of Design is Biomimicry"
 description: |
-  A short description of the post.
+   This article explains the arrival and the concept of biomimicry, and shows some concrete examples, especially in architecture. A product can contain multiple processes from nature. The Entropy carpet tiles are the proof.
 author:
   - name: Lucie Marin
     url: {}
@@ -45,7 +45,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | Brand              | A type of product manufactured by a particular company under a particular name.                     |
 | Mimicking              | Imitating                     |
 | Craze              | An enthusiasm for a particular activity or object which appears suddenly and achieves widespread but short-lived popularity.                      |
-| Oakey              | Relating to, or having many oaks                      |
 | Echoing              | Resounding with or reflecting back sounds.                     |
 | Oblongs              | A rectangular object or flat figure with unequal adjacent sides.                   |
 | Tiles              | A thin rectangular slab of baked clay or other material, used in overlapping rows for covering roofs.                      |
@@ -57,11 +56,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |                   |
+| Researchers                  | ?                   |
 | Published in?                | August 7, 2019                                                     |
-| General topic?               |                      |
-| Procedure/what was examined? |                    |
-| Conclusions/discovery?       |            |
-| Remaining questions?         |         |
+| General topic?               | This article explains the arrival and the concept of biomimicry, and shows some concrete examples, especially in architecture. A product can contain multiple processes from nature. The Entropy carpet tiles are the proof.                  |
+| Procedure/what was examined? | Nature and Live have been evolving for millions of years and she has found elegant solutions to meticulous problems. Nowadays, more and more scientists are discovering that Nature brings a lot of solutions to our problem of quotient. The article also discusses concrete examples. For example, Mega-structures like Grimshaw Architects’ Eden Project and Michael Pawlyn’s Sahara Forest Project or Mick Pearce’s Eastgate Centre. Other example is Entropy carpet tiles that is inspired by a natural forest cover.  In addition to the technical aspect, we have the design that is reworked. The rugs are inspired by the random side of the river bottom. Another capacity of this carpet is it's sticky property without glue, this technique is inspired by the gecko . The gecko is a small lizard that can attach to any wall               |
+| Conclusions/discovery?       | Nature offers solutions that have the least constraint possible because the process has been improved for millions of years. With biomimicry, we produce much less waste and exceed our limits by building complexer structures.        |
+| Remaining questions?         | ?        |
 
 
