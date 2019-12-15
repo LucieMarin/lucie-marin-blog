@@ -1,7 +1,26 @@
 [
   {
+    "path": "posts/2019-12-15-article-5/",
+    "title": "Article 5 : Biomimicry: Smart Design inspired by nature",
+    "description": "This article is a summary such as the previous article on the arrival of biomimicry, explaining this concept. Concrete examples are also presented. For example, the kingfisher's beak inspired the shape of a train or the water pearls on a lotus leaf inspired hydrophobic materials. The article also describes the future that biomimicry can bring.",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-15",
+    "categories": [
+      "architecture",
+      "industrie",
+      "technology"
+    ],
+    "preview": "posts/2019-12-15-article-5/image/train.jpg",
+    "last_modified": "2019-12-15T11:55:04+01:00"
+  },
+  {
     "path": "posts/2019-11-29-article-4/",
-    "title": "Article 4: The Future of Design is Biomimicry",
+    "title": "Article 4 : The Future of Design is Biomimicry",
     "description": "This article explains the arrival and the concept of biomimicry, and shows some concrete examples, especially in architecture. A product can contain multiple processes from nature. The Entropy carpet tiles are the proof.",
     "author": [
       {
@@ -14,11 +33,11 @@
       "architecture"
     ],
     "preview": "posts/2019-11-29-article-4/image/biomimicry.jpg",
-    "last_modified": "2019-12-01T18:58:33+01:00"
+    "last_modified": "2019-12-15T09:28:29+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",
-    "title": "Article 3 :Color-changing artificial 'chameleon skin' powered by nanomachines",
+    "title": "Article 3 : Color-changing artificial 'chameleon skin' powered by nanomachines",
     "description": "The scientists are working on \"a chameleon skin\", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish",
     "author": [
       {
@@ -31,7 +50,7 @@
       "chameleon"
     ],
     "preview": "posts/2019-11-17-article-3/image/cameleon.jpg",
-    "last_modified": "2019-11-29T17:02:57+01:00"
+    "last_modified": "2019-12-15T09:26:26+01:00"
   },
   {
     "path": "posts/2019-11-02-article-2/",

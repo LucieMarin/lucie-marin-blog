@@ -1,5 +1,5 @@
 ---
-title: "Article 3 :Color-changing artificial 'chameleon skin' powered by nanomachines"
+title: "Article 3 : Color-changing artificial 'chameleon skin' powered by nanomachines"
 description: |
   The scientists are working on "a chameleon skin", it is a new nanotechnology allowing a modification of the color of a material according to the luminosity, this technology is inspired by several animals like the chameleon or the cuttlefish
 author:

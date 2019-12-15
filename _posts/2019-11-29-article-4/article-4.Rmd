@@ -1,5 +1,5 @@
 ---
-title: "Article 4: The Future of Design is Biomimicry"
+title: "Article 4 : The Future of Design is Biomimicry"
 description: |
    This article explains the arrival and the concept of biomimicry, and shows some concrete examples, especially in architecture. A product can contain multiple processes from nature. The Entropy carpet tiles are the proof.
 author:

@@ -1,0 +1,53 @@
+---
+title: "Article 5 : Biomimicry: Smart Design inspired by nature"
+description: |
+  This article is a summary such as the previous article on the arrival of biomimicry, explaining this concept. Concrete examples are also presented. For example, the kingfisher's beak inspired the shape of a train or the water pearls on a lotus leaf inspired hydrophobic materials. The article also describes the future that biomimicry can bring.
+author:
+  - name: Lucie Marin
+    url: {}
+date: 12-15-2019
+categories:
+  - architecture
+  - industrie
+  - technology 
+preview: image/train.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ Credit: [ https://www.saint-gobain.com/en/biomimicry-smart-design-inspired-nature ]() ](image/train.jpg)
+
+## Link url of article
+
+<https://www.saint-gobain.com/en/biomimicry-smart-design-inspired-nature>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Smart            | Intelligent                |
+| Borrow             | Loan             |
+| Drawing             | Stretching             |
+| Wool             | Crewel              |
+| Upon             | More formal term for on, especially in abstract senses              |
+| Shell             | The hard protective outer case of a mollusc or crustacean              |
+| Hold            | Keep              |
+| Increasingly          | More and more             |
+| Innate            | Inborn                   |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Armand Ajdari, Director of Research and Development at Saint-Gobain Group                          |
+| Published in?                | June 7 ,2019                                                   |
+| General topic?               | This article is a summary such as the previous article on the arrival of biomimicry, explaining this concept. Concrete examples are also presented. For example, the kingfisher's beak inspired the shape of a train or the water pearls on a lotus leaf inspired hydrophobic materials. The article also describes the future that biomimicry can bring.                       |
+| Procedure/what was examined? | Scientists are inspired by nature that is billions of years ahead of humanity. Evolution selects the best performing species and offers very advanced technologies that humans can use to evolve. We have concrete examples of what nature brings to human. The kingfisher's beak has an aerodynamic shape which allows it to avoid maximum turbulence when it enters the water. A train is inspired by this beak. New materials are produced which are more resistant, more efficient and respectful of the environment.                 |
+| Conclusions/discovery?       | This article explains biomimicry once again. It is a new science and important for our future. Nature is ahead of humanity if we want to evolve quickly, we must be in harmony with nature. Nature has solutions to problems in our society. And we discover new technologies with it                  |
+| Remaining questions?         | What are the limits of biomimicry?                     |
