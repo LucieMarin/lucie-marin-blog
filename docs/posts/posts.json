@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6 : Not all of nature's layered structures are tough as animal shells and antlers",
+    "description": {},
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [
+      "structure"
+    ],
+    "preview": "posts/2020-02-16-article-6/image/eponge.jpg",
+    "last_modified": "2020-02-16T15:44:49+01:00"
+  },
+  {
     "path": "posts/2019-12-15-article-5/",
     "title": "Article 5 : Biomimicry: Smart Design inspired by nature",
     "description": "This article is a summary such as the previous article on the arrival of biomimicry, explaining this concept. Concrete examples are also presented. For example, the kingfisher's beak inspired the shape of a train or the water pearls on a lotus leaf inspired hydrophobic materials. The article also describes the future that biomimicry can bring.",
@@ -33,7 +50,7 @@
       "architecture"
     ],
     "preview": "posts/2019-11-29-article-4/image/biomimicry.png",
-    "last_modified": "2019-12-15T12:28:03+01:00",
+    "last_modified": "2019-12-15T12:28:05+01:00",
     "preview_width": 973,
     "preview_height": 579
   },
