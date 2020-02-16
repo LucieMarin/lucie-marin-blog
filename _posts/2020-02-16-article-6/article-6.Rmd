@@ -1,6 +1,7 @@
 ---
 title: "Article 6 : Not all of nature's layered structures are tough as animal shells and antlers"
 description: |
+  This study shows us that you have to be critical with biomimicry. One should not naively take inspiration from the living without understanding its mechanisms. This article shows that certain living structures can be fragile. It is therefore necessary to analyse well before creating a non advantageous invention. 
 author:
   - name: Lucie Marin
     url: {}
@@ -37,10 +38,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Anchor       | A heavy object attached to a cable or chain and used to moor a ship to the sea bottom, typically having a metal shank with a pair of curved, barbed flukes at one end.             |
 | Spicules            | Each of the small needle-like or sharp-pointed structures of calcite or silica that make up the skeleton of a sponge                  |
 | Otherwise            | In a different state or situation                  |
-| Notches            | 
-An indentation or incision on an edge or surface                  |
-| Bend           | 
-Shape or force (something straight) into a curve or angle.                  |
+| Notches            | An indentation or incision on an edge or surface                  |
+| Bend           | Shape or force (something straight) into a curve or angle.                  |
 | Curvature            | The degree to which a curve deviates from a straight line, or a curved surface deviates from a plane                  |
 | Cracks            | A line on the surface of something along which it has split without breaking apart                  |
 | To layer            | Arrange in a layer or layers                  |
@@ -52,7 +51,7 @@ Shape or force (something straight) into a curve or angle.                  |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Brown University                         |
 | Published in?                | January 7 ,2020                                                   |
-| General topic?               |                      |
-| Procedure/what was examined? |                |
-| Conclusions/discovery?       |               |
-| Remaining questions?         |                     |
+| General topic?               | This study shows us that you have to be critical with biomimicry. One should not naively take inspiration from the living without understanding its mechanisms. This article shows that certain living structures can be fragile. It is therefore necessary to analyse well before creating a non advantageous invention.                     |
+| Procedure/what was examined? | Scientists have studied the structure of sponges, which are organisms composed of spicules. There are a wide variety of spicules, including curved or flat spicules. Tenacity and flexibility were measured for the 2 organisms. Curved spicules offer better flexibility However, the toughness between the 2 organisms is not significantly different. In particular, an organism with curved spicules can be more fragile.               |
+| Conclusions/discovery?       | This study brings a critical spirit to biomimicry. A simple study is not enough to solve the problems of our society. It takes more knowledge to be aware of the complex structures of nature.             |
+| Remaining questions?         | How to find the most advantageous inventions in the face of the complexity of nature's structures?                    |

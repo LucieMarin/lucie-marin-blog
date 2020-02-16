@@ -8,7 +8,7 @@ author:
 date: 11-29-2019
 categories:
   - architecture
-preview: image/biomimicry.png
+preview: image/innovant.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![ Credit: [ https://blog.interface.com/future-of-design-biomimicry/ ]() ](image/biomimicry.png)
+![ Credit: [ https://blog.interface.com/future-of-design-biomimicry/ ]() ](image/innovant.jpg)
 
 ## Link url of article
 

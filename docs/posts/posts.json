@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-02-16-article-6/",
     "title": "Article 6 : Not all of nature's layered structures are tough as animal shells and antlers",
-    "description": {},
+    "description": "This study shows us that you have to be critical with biomimicry. One should not naively take inspiration from the living without understanding its mechanisms. This article shows that certain living structures can be fragile. It is therefore necessary to analyse well before creating a non advantageous invention.",
     "author": [
       {
         "name": "Lucie Marin",
@@ -14,7 +14,7 @@
       "structure"
     ],
     "preview": "posts/2020-02-16-article-6/image/eponge.jpg",
-    "last_modified": "2020-02-16T15:44:49+01:00"
+    "last_modified": "2020-02-16T16:24:45+01:00"
   },
   {
     "path": "posts/2019-12-15-article-5/",
@@ -49,10 +49,8 @@
     "categories": [
       "architecture"
     ],
-    "preview": "posts/2019-11-29-article-4/image/biomimicry.png",
-    "last_modified": "2019-12-15T12:28:05+01:00",
-    "preview_width": 973,
-    "preview_height": 579
+    "preview": "posts/2019-11-29-article-4/image/innovant.jpg",
+    "last_modified": "2020-02-16T15:51:06+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",
