@@ -32,7 +32,11 @@
       "structure"
     ],
     "preview": "posts/2020-02-16-article-6/image/eponge.jpg",
+<<<<<<< HEAD
     "last_modified": "2020-02-16T16:24:48+01:00"
+=======
+    "last_modified": "2020-02-28T12:39:25+01:00"
+>>>>>>> b2da3ee7250e2088021ca841bf1d6f5e2760afcf
   },
   {
     "path": "posts/2019-12-15-article-5/",
@@ -51,7 +55,7 @@
       "technology"
     ],
     "preview": "posts/2019-12-15-article-5/image/train.jpg",
-    "last_modified": "2019-12-15T11:55:05+01:00"
+    "last_modified": "2020-02-28T12:39:25+01:00"
   },
   {
     "path": "posts/2019-11-29-article-4/",
@@ -68,7 +72,11 @@
       "architecture"
     ],
     "preview": "posts/2019-11-29-article-4/image/innovant.jpg",
+<<<<<<< HEAD
     "last_modified": "2020-02-16T15:51:07+01:00"
+=======
+    "last_modified": "2020-02-28T12:54:07+01:00"
+>>>>>>> b2da3ee7250e2088021ca841bf1d6f5e2760afcf
   },
   {
     "path": "posts/2019-11-17-article-3/",
@@ -85,7 +93,7 @@
       "chameleon"
     ],
     "preview": "posts/2019-11-17-article-3/image/cameleon.jpg",
-    "last_modified": "2019-12-15T09:26:26+01:00"
+    "last_modified": "2020-02-28T12:39:25+01:00"
   },
   {
     "path": "posts/2019-11-02-article-2/",
@@ -102,7 +110,7 @@
       "polar beer"
     ],
     "preview": "posts/2019-11-02-article-2/image/ours-polaire.jpg",
-    "last_modified": "2019-11-29T17:02:57+01:00"
+    "last_modified": "2020-02-28T12:39:25+01:00"
   },
   {
     "path": "posts/2019-10-09-article-1/",
@@ -119,6 +127,6 @@
       "mussels"
     ],
     "preview": "posts/2019-10-09-article-1/image/mussels.jpg",
-    "last_modified": "2019-12-01T17:57:05+01:00"
+    "last_modified": "2020-02-28T12:39:25+01:00"
   }
 ]
