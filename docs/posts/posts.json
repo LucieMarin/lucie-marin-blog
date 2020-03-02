@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2020-03-02-article-7/",
+    "title": "Article 7: Scouring the natural world can be an effective way of finding design inspiration for new scientific innovation. Here, we take a look at a crop of European biotechs currently using biomimicry to develop weird and wonderful bio-inspired products.  ",
+    "description": "This article shows what biomimetic can bring to medicine so far. The articles tell us about examples of architecture, engineering ... But not yet in a purely medical environment. Three discoveries have been described.",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-02",
+    "categories": [
+      "medecine",
+      "structure"
+    ],
+    "preview": "posts/2020-03-02-article-7/image/jellyfish.jpg",
+    "last_modified": "2020-03-02T19:47:30+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6/",
     "title": "Article 6 : Not all of nature's layered structures are tough as animal shells and antlers",
     "description": "This study shows us that you have to be critical with biomimicry. One should not naively take inspiration from the living without understanding its mechanisms. This article shows that certain living structures can be fragile. It is therefore necessary to analyse well before creating a non advantageous invention.",
@@ -14,7 +32,7 @@
       "structure"
     ],
     "preview": "posts/2020-02-16-article-6/image/eponge.jpg",
-    "last_modified": "2020-02-16T16:24:45+01:00"
+    "last_modified": "2020-02-16T16:24:48+01:00"
   },
   {
     "path": "posts/2019-12-15-article-5/",
@@ -50,7 +68,7 @@
       "architecture"
     ],
     "preview": "posts/2019-11-29-article-4/image/innovant.jpg",
-    "last_modified": "2020-02-16T15:51:06+01:00"
+    "last_modified": "2020-02-16T15:51:07+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",

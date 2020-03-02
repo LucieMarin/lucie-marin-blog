@@ -1,0 +1,71 @@
+---
+title: "Article 7: Scouring the natural world can be an effective way of finding design inspiration for new scientific innovation. Here, we take a look at a crop of European biotechs currently using biomimicry to develop weird and wonderful bio-inspired products.  "
+description: |
+  This article shows what biomimetic can bring to medicine so far. The articles tell us about examples of architecture, engineering ... But not yet in a purely medical environment. Three discoveries have been described.
+author:
+  - name: Lucie Marin
+date: 03-02-2020
+categories:
+  - medecine
+  - structure
+preview: image/jellyfish.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ Credit: [ https://www.labiotech.eu/features/biomimicry-biotech-nature-inspiration/ ]() ](image/jellyfish.jpg)
+
+## Link url of article
+
+<https://www.labiotech.eu/features/biomimicry-biotech-nature-inspiration/>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Weird         | Suggesting something supernatural, uncanny               |
+| Streamlined             | Design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement         |
+| Pipeline      | A long pipe, typically underground, for conveying oil, gas, etc., over long distances.           |
+| Skyrocketing                  | Of a price, rate, or amount) increase very steeply or rapidly.      |
+| Toolbox              | a box or container for keeping tools in.     |
+| Barrel                  | A cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.      |
+| Broad               | Having an ample distance from side to side; wide.        |
+| Routinely              | As part of a regular procedure rather than for a special reason.      |
+| Standpoint                    | An attitude to or outlook on issues, typically arising from one's circumstances or beliefs.      |
+| Startup                    | The action or process of setting something in motion.        |
+| Rattan                   | The thin pliable stems of a palm, used to make furniture.        |
+| Scaffold                   | A raised wooden platform used formerly for the public execution of criminals.        |
+| Orthopedics                   | The branch of medicine dealing with the correction of deformities of bones or muscles.        |
+| Vessels                   | Ships        |
+| Bone-forming                   | Process by which new bone is produced.        |
+| Porous                   | (Of a rock or other material) having minute spaces or holes through which liquid or air may pass.        |
+| Scratch                   | A mark or wound made by scratching.        |
+| Load-bearing                   | (Especially of a wall) supporting much of the weight of the overlying parts of a building or other structure.        |
+| Worms                   | Maggot        |
+| Surgery                   | The treatment of injuries or disorders of the body by incision or manipulation, especially with instruments.        |
+| Holes                   | A hollow place in a solid body or surface.        |
+| Viscous                   | Having a thick, sticky consistency between solid and liquid; having a high viscosity.        |
+| Moisture                   | Water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.        |
+| Surgical                   | Relating to or used in surgery.        |
+| Clinical                   | Of or relating to the observation and treatment of actual patients rather than theoretical or laboratory studies.        |
+| Establishing                   | Institution        |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Jellagen, a Welsh marine biotechnology company, GreenBone is an Italian startup founded, Paris-based Gecko Biomedical                  |
+| Published in?                | December 23, 2019                                                       |
+| General topic?               | This article shows what biomimetic can bring to medicine so far. The articles tell us about examples of architecture, engineering ... But not yet in a purely medical environment. Three discoveries have been described. The first is jellyfish collagen which is said to be much more reliable than that of other animals. Collagen is the most widely used protein in mammals and is often used in medicine. The problem is that current collagen sometimes has pathogenic effects. With jellyfish collagen, it would be much safer. The second example is a material that can replace some damaged body structures such as bones. This material comes from a plant and offers regenerating and creative properties. The last example is the glue produced by worms which could replace the glue in medicine because it is more resistant.                    |
+| Procedure/what was examined? | For the first example, jellyfish collagen. It is an ancestral collagen and the basis of all other collagens. It is therefore compatible with many cells. There are also fewer immune responses in the body. For the second example, the scientists were inspired by a plant capable of reproducing the bone structure and serving as a scaffold for bone regeneration. This would allow the patient to heal faster for less money.For the third example, the researchers made a glue by copying a worm. This glue is very resistant. It is designed to be very viscous and hydrophobic, it has much less difficulty in staying in place. The glue is stabilised by UV rays and resists the pressure of blood vessels. This adhesive has been tested on several patients and the results are convincing. |
+| Conclusions/discovery?       | Biomimicry allows medicine to evolve faster. The 3 products developed bring great progress. These products come from nature, so there is no immune problem. By imitating nature, we do not start from nothing, nature helps us to go faster. The 3 products will soon be on sale and this shows us that humanity needs nature to evolve.      |
+| Remaining questions?         | What other elements of nature contribute most to the evolution of medicine? |
+
