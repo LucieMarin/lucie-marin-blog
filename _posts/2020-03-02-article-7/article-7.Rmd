@@ -37,7 +37,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | Barrel                  | A cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.      |
 | Broad               | Having an ample distance from side to side; wide.        |
 | Routinely              | As part of a regular procedure rather than for a special reason.      |
-| Standpoint                    | An attitude to or outlook on issues, typically arising from one's circumstances or beliefs.      |
 | Startup                    | The action or process of setting something in motion.        |
 | Rattan                   | The thin pliable stems of a palm, used to make furniture.        |
 | Scaffold                   | A raised wooden platform used formerly for the public execution of criminals.        |

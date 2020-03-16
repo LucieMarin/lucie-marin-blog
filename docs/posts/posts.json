@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-16-article-8/",
+    "title": "Article 8 : Shining a new light on biomimetic materials",
+    "description": "Scientists have developed a dynamic material that reacts to a change in the environment. And here, this dynamic material reacts to light.",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-16",
+    "categories": [
+      "optic"
+    ],
+    "preview": "posts/2020-03-16-article-8/image/optic.jpg",
+    "last_modified": "2020-03-16T17:55:54+01:00"
+  },
+  {
     "path": "posts/2020-03-02-article-7/",
     "title": "Article 7: Scouring the natural world can be an effective way of finding design inspiration for new scientific innovation. Here, we take a look at a crop of European biotechs currently using biomimicry to develop weird and wonderful bio-inspired products.  ",
     "description": "This article shows what biomimetic can bring to medicine so far. The articles tell us about examples of architecture, engineering ... But not yet in a purely medical environment. Three discoveries have been described.",
@@ -51,7 +68,7 @@
       "technology"
     ],
     "preview": "posts/2019-12-15-article-5/image/train.jpg",
-    "last_modified": "2020-03-02T19:58:54+01:00"
+    "last_modified": "2020-03-02T19:58:56+01:00"
   },
   {
     "path": "posts/2019-11-29-article-4/",

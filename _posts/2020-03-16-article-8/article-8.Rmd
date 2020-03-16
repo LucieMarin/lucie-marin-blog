@@ -1,0 +1,50 @@
+---
+title: "Article 8 : Shining a new light on biomimetic materials"
+description: |
+  Scientists have developed a dynamic material that reacts to a change in the environment. And here, this dynamic material reacts to light.
+author:
+  - name: Lucie Marin
+date: 03-16-2020
+categories:
+  - optic
+preview: image/optic.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ Credit: [ https://www.pickpik.com/human-eye-iris-macro-view-cornea-close-up-117097]() ](image/optic.jpg)
+
+## Link url of article
+
+<https://www.sciencedaily.com/releases/2020/02/200224152705.htm>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Life-like       | Very similar to the person or thing represented.               |
+| Throughout       | In every part of (a place or object).               |
+| To yield        |To produce or provide (a natural, agricultural, or industrial product).              |
+| Behavior        | The way in which one acts or conducts oneself, especially towards others.               |
+| Hard-wired        | Built-in               |
+| Spiropyran       | Another group of spiropyrans which contain indoline or nitrogen heterocycles and the indolinospirothiapyrans found their application in film forms of photochromic materials using polyester resins. Those resins with a high refractive index were used to make photochromic lenses. Moreover, spiropyrans are being used in cosmetics.                |
+| Chromophore       | the chemical group that gives color to a molecule               |
+| To shrink        |To become or make smaller in size or amount               |
+| Photon        | Particle of light               |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | University of Pittsburgh, The Pitt authors include Anna C. Balazs, Distinguished Professor of Chemical and Petroleum Engineering and John A. Swanson Chair of Engineering; and Victor V. Yashin, Visiting Research Assistant Professor. Other members include Joanna Aizenberg, Amos Meeks (co-first author) and Anna V. Shneidman, Wyss Institute for Biologically Inspired Engineering and Harvard John A. Paulson School of Engineering and Applied Sciences; Ankita Shastri, Harvard Department of Chemistry and Chemical Biology; and Fariha Mahmood, Derek Morim (co-first author), Kalaichelvi Saravanamuttu and Andy Tran, McMaster University, Ontario, Canada.                 |
+| Published in?                | February 24, 2020                                     |
+| General topic?               | Scientists have developed a dynamic material that reacts to a change in the environment. And here, this dynamic material reacts to light.                 |
+| Procedure/what was examined? | The materials used so far in society are essentially static. Scientists have been inspired by the iris of the eye, which adapts to light, to make equipment that can do the same. The material is a hydrogel composed of spiropyran (SP) and photosensitive chromophores. This material can contain light beams just like optical fibers. But in addition, the material reacts to light and can trap photons. In the absence of light, the gel is swollen and relaxed. With light, the gel becomes smaller and hydrophobic. The ability of light to affect gel and gel in turn to affect light propagation creates a feedback loop in synthetic materials. There are also impacts with the presence of a second light source. One of the self-trapped beams not only controls a second beam, but control can also occur with a significant distance between the two, thanks to the response of the hydrogel medium.        |
+| Conclusions/discovery?       | This material allows to get closer to nature. It has a lower energy blow and this material works in cycle. It is self-regulating. It can be useful for exploring soft robotics, optical computing and adaptive optics. It is a new path towards the creation of devices that do not depend on human control.        |
+| Remaining questions?         | Can machines with such materials overtake humans? What are the limits?       |
