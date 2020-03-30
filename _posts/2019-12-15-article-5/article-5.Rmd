@@ -10,7 +10,7 @@ categories:
   - architecture
   - industry
   - technology 
-preview: image/train.jpg
+preview: image/oiseau.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -20,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![ Credit: [ https://www.saint-gobain.com/en/biomimicry-smart-design-inspired-nature ]() ](image/train.jpg)
+![ Credit: [ https://pixabay.com/fr/photos/martin-pêcheur-oiseau-des-animaux-983944/ ]() ](image/oiseau.jpg)
 
 ## Link url of article
 

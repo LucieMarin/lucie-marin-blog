@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-30-article-9/",
+    "title": "Article 9: Vertical fibers in the suckerfish's suction cup-like fin help it hitchhike.",
+    "description": "The remora is a fish with a remarkable ability to grip with its suction disc. Thanks to these modified lips it can cling to any aquatic creature with great efficiency. Scientists have studied this animal to produce suction cups with the same efficiency.",
+    "author": [
+      {
+        "name": "Lucie Marin",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-30",
+    "categories": [
+      "structure"
+    ],
+    "preview": "posts/2020-03-30-article-9/image/remora.jpg",
+    "last_modified": "2020-03-30T13:47:15+02:00"
+  },
+  {
     "path": "posts/2020-03-16-article-8/",
     "title": "Article 8 : Shining a new light on biomimetic materials",
     "description": "Scientists have developed a dynamic material that reacts to a change in the environment. And here, this dynamic material reacts to light.",
@@ -67,8 +84,8 @@
       "industry",
       "technology"
     ],
-    "preview": "posts/2019-12-15-article-5/image/train.jpg",
-    "last_modified": "2020-03-02T19:58:56+01:00"
+    "preview": "posts/2019-12-15-article-5/image/oiseau.jpg",
+    "last_modified": "2020-03-30T10:45:22+02:00"
   },
   {
     "path": "posts/2019-11-29-article-4/",
@@ -84,8 +101,8 @@
     "categories": [
       "architecture"
     ],
-    "preview": "posts/2019-11-29-article-4/image/innovant.jpg",
-    "last_modified": "2020-03-02T19:54:18+01:00"
+    "preview": "posts/2019-11-29-article-4/image/feuille.jpg",
+    "last_modified": "2020-03-30T10:52:56+02:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",

@@ -1,0 +1,56 @@
+---
+title: "Article 9: Vertical fibers in the suckerfish's suction cup-like fin help it hitchhike."
+description: |
+  The remora is a fish with a remarkable ability to grip with its suction disc. Thanks to these modified lips it can cling to any aquatic creature with great efficiency. Scientists have studied this animal to produce suction cups with the same efficiency.
+author:
+  - name: Lucie Marin
+date: 03-30-2020
+categories:
+  - structure
+preview: image/remora.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ Credit: [ https://nl.wikipedia.org/wiki/Bestand:Remoras.jpg ]() ](image/remora.jpg)
+
+## Link url of article
+
+<https://www.sciencedaily.com/releases/2020/02/200226131316.htm>
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Suckerfish                    | Another term for remora. Remora is a fish.                       |
+| Cup-like                    | Curving inward                        |
+| Hitchhike                    | Travel by getting free lifts in passing vehicles                        |
+| Grip                    | A firm hold                        |
+| Flat-headed                    | Having a head with a flattened top                        |
+| Eel-like fish                   | The fish looks like a snake-like fish with a slender elongated body and poorly developed fins, proverbial for its slipperiness.                        |
+| Mating                    | Copulation                        |
+| Sharksucker                    | Any of several remoras, as Echeneis naucrates, usually found attached to sharks.                        |
+| Lip                    | Either of the two fleshy parts which form the upper and lower edges of the opening of the mouth                        |
+| Sharkskin                    | The rough scaly skin of a shark, sometimes used as shagreen                         |
+| Sucker                    | Suction cup                        |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Juan Guan of Beihang University       |
+| Published in?                | February 26, 2020                             |
+| General topic?               | The remora is a fish with a remarkable ability to grip with its suction disc. Thanks to these modified lips it can cling to any aquatic creature with great efficiency. Scientists have studied this animal to produce suction cups with the same efficiency.               |
+| Procedure/what was examined? | The suction disc of remora is made of vertically oriented collagen fibre. The structure is elastic and there is a deformation of the lip. This particular organization offers remarkable grip. Scientists were inspired by this fish by replacing collagen with nylon fibres which have identical properties. The bio-inspired disc is also composed of an electrostatic flocking which allows the alignment of the nylon fibres.   |
+| Conclusions/discovery?       | This structure has a lot of potential in future applications. Robots could be equipped with this technology to recover biological data, monitor and maintain the marine environment, etc.      |
+| Remaining questions?         | Nylon fibres have some drawbacks, especially the ecological aspect. The fish suction disc is not yet fully reproduced morphologically and chemically. More study on the structure of the superficial and under-skin layer is requested. Silk could be an alternative to nylon but experiments must be made.     |
+
+
+
+
