@@ -9,6 +9,10 @@ navbar:
       href: english-activity.html
     - text: "About"
       href: about.html
+    - text: "Introduction"
+      href: introduction.html
+    - text: "Conclusion"
+      href: conclusion.html
     - icon: fab fa-github
       href: https://github.com/LucieMarin/lucie-marin-blog
 base_url: http://LucieMarin.github.io/lucie-marin-blog/
